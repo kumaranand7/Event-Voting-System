@@ -15,7 +15,7 @@
         android:background="@drawable/custombutton"
         android:fontFamily="@font/raleway"
         android:gravity="center"
-        android:text="Add Students"
+        android:text="Add Student"
         android:textAlignment="center"
         android:textAllCaps="false"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
